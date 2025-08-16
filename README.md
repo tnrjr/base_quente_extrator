@@ -1,0 +1,1 @@
+# base_quente_extrator
